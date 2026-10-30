@@ -1,4 +1,4 @@
-# ProteinPlus – GitHub Pages
+# PROTEIN PLUS – GitHub Pages
 
 Statische Website für Support, Datenschutz und Impressum.
 
